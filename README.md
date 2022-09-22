@@ -5,7 +5,7 @@
     Author: Stephan Ansorge aka LoveBootCaptain  
   
 
-I found something useful to use My First Raspberry Pi Model B, bought 10years ago back in Dec2012 :)  
+I found something useful to use My First Raspberry Pi Model B, bought 10 years ago, Dec/2012 :)  
   
 ![IMG_4036 Medium](https://user-images.githubusercontent.com/41960992/191621482-1641d33b-efe5-4a2b-a5b1-2e4ae0f6ecf9.jpeg)
   
