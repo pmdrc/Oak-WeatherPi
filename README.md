@@ -1,4 +1,4 @@
-# WeatherOak
+# Oak-WeatherPi
 
 *Raspberry Pi Weather Station* based on WeatherPi_TFT by LoveBootCaptain  
     Copyright (c) 2016 LoveBootCaptain  
